@@ -1,0 +1,7 @@
+com\cognizant\springlearn\SpringLearnApplication.class
+com\cognizant\springlearn\repository\EmployeeRepository.class
+com\cognizant\springlearn\model\Employee.class
+com\cognizant\springlearn\model\Skill.class
+com\cognizant\springlearn\repository\SkillRepository.class
+com\cognizant\springlearn\model\Department.class
+com\cognizant\springlearn\repository\DepartmentRepository.class
